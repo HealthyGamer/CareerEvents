@@ -1,5 +1,7 @@
 # When to Quit Your Job
 
+[Link to Whiteboard Image](./whiteboards/QuitYourJobWB.png)
+
 ## Massive Red Flags
 
 *(aka get out ASAP)*
