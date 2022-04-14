@@ -20,11 +20,17 @@ It's important to note that what a "senior dev" means varies a lot by company an
 
 Here's the definitions I'm using:
 
+*Early*
+
 **SWE1/Junior**: Main focus is on learning. Doing simple implementations of tasks handed to them by mid-tier and senior devs.
 
 **SWE2/Mid-tier**: Able to work on most tasks independently. Participates in planning and design work, but not necessarily a desicion maker on these high level areas.
 
+*Mid*
+
 **Senior**: Help with project planning, delegate tasks, and mentor junior devs. Might spend some time coding but are mainly focused on keeping the technical parts of the team moving forward.
+
+*Late*
 
 **Pricipal/Staff and Higher**: At this point the person is focused almost entirely on big picture planning and execution. The scope of the planning will usually be broader than with senior devs. Ex. Staff engineer designs the overall structure and a senior dev is given a specific feature or group of features to implement.
 
@@ -61,3 +67,9 @@ If you didn't do much moving around previously, you may have to move down a leve
 While you can start this early in your career, and I recommend starting early since they are helpful throughout your career, the higher up you go in the tech field, the harder it will be to do so without spending some time on things outside of your job description.
 
 These are the topics of many of the other workshops we do on discord-- things like networking can help you move into areas where your resume is weak to help you build experience. Content increases your visibility in the industry so that future bosses will be more willing to give you additional responsibility. If you want to move into something like a consulting role, these types of things become even more important as your reputation essentially replaces your resume.
+
+## Late Career
+
+Many people will never get into what I've categorized as "late career", but it may be something you personally want as a goal. In my opinion, there are two different main branches at this level. The first is to continue up to corporate hierarchy into principal level and above in whatever path (or multiple paths) you choose. As with mid-stage, shifting around between diciplines is still possible, though in my observation people tend to stay a bit more in a single track at that point.
+
+The other route is that this is where things like being an independant consultant become extremely viable. You've had 5-10 years to build a professional brand that you can leverage to gain clients and charge them enough to keep you comfortable. This path is a bit different, however. Where-as something like a product manager needs to have a solid foundation in a lot of different disciplines, the consultants I've talked at this level tend to be extremely deep in only a few skills. If they choose to be independant they still need the skills for running a business, but these are the ones that are commited to a specific technology or type of technology, and wouldn't necessarily do well in a more general role.
