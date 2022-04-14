@@ -8,11 +8,12 @@
 
 To talk about career paths, I think it is important to be transparent towards my own background. I have titled as a mid-tier dev my entire career, but throughout that time I've spent time working on things both above and below that "role", as well as moving to companies with higher and higher standards for their devs.
 
-- 1.5 years: Full Stack Web Dev at small SaaS company
-- 2.5 years: Seftware Development Consultant at small consulting firm
+-1.5 years: Full Stack Web Dev at a small SaaS company
+
+- 2.5 years: Software Development Consultant at a small consulting firm
 - 3 years: SWE2 at Microsoft
 - Currently: Backend Developer for a small startup
-- Additional Qualifications: Speaker at 6-8ish? tech conferences, active member of the Atlanta teh community & community lead on HG Discord
+- Additional Qualifications: Speaker at 6-8ish? tech conferences, an active member of the Atlanta tech community & community lead on HG Discord
 
 ## Titles are Not Standardized
 
@@ -70,6 +71,6 @@ These are the topics of many of the other workshops we do on discord-- things li
 
 ## Late Career
 
-Many people will never get into what I've categorized as "late career", but it may be something you personally want as a goal. In my opinion, there are two different main branches at this level. The first is to continue up to corporate hierarchy into principal level and above in whatever path (or multiple paths) you choose. As with mid-stage, shifting around between diciplines is still possible, though in my observation people tend to stay a bit more in a single track at that point.
+Many people will never get into what I've categorized as "late career", but it may be something you personally want as a goal. In my opinion, there are two different main branches at this level. The first is to continue up the corporate hierarchy into principal level and above in whatever path (or multiple paths) you choose. As with mid-stage, shifting around between disciplines is still possible, though in my observation people tend to stay a bit more in a single track at that point.
 
-The other route is that this is where things like being an independant consultant become extremely viable. You've had 5-10 years to build a professional brand that you can leverage to gain clients and charge them enough to keep you comfortable. This path is a bit different, however. Where-as something like a product manager needs to have a solid foundation in a lot of different disciplines, the consultants I've talked at this level tend to be extremely deep in only a few skills. If they choose to be independant they still need the skills for running a business, but these are the ones that are commited to a specific technology or type of technology, and wouldn't necessarily do well in a more general role.
+The other route is that this is where things like being an independent consultant become extremely viable. You've had 5-10 years to build a professional brand that you can leverage to gain clients and charge them enough to keep you comfortable. This path is a bit different, however. Where-as something like a product manager needs to have a solid foundation in a lot of different disciplines, the consultants I've talked to at this level tend to be extremely deep in only a few skills. If they choose to be independent they still need the skills for running a business, but these are the ones that are commited to a specific technology or type of technology, and wouldn't necessarily do well in a more general role.
