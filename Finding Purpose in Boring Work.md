@@ -1,17 +1,17 @@
 # Finding Meaning in "Boring" Jobs
 
-Reset your Mindset
-You Are Not Your Job
-Redefine What Your Job Means to Others
-Take Control Over Your Job
-Leverage Your Job For Other Things
+- Reset your Mindset
+  - You Are Not Your Job
+  - Redefine What Your Job Means to Others
+- Take Control Over Your Job
+- Leverage Your Job For Other Things
 
 The easy answer is "find a different job," but that won't be the focus here. We'll assume that leaving isn't an option for this discussion, at least for now.
 
 When I think of what could define a "boring" job, there are two different definitions that come to mind:
 
-Menial labor. These might be things like cleaning, data entry, or receptionist.
-Bullshit jobs. This was defined in a book in 2018 by that title as a job that contributes nothing to the world other than to make work for other people. This is the stereotype of middle management but can also apply to positions where you are supposed to patch issues instead of fixing the root cause.
+- Menial labor. These might be things like cleaning, data entry, or receptionist.
+- Bullshit jobs. This was defined in a book in 2018 by that title as a job that contributes nothing to the world other than to make work for other people. This is the stereotype of middle management but can also apply to positions where you are supposed to patch issues instead of fixing the root cause.
 
 ## Reset your Mindset
 
