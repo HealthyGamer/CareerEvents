@@ -16,6 +16,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Tech Career Progression](./Tech%20Career%20Progression)
 - [When to Quit Your Job](./When%20to%20Quit%20Your%20Job)
 - [The Magic of "I Don't Know"](./magic-of-i-dont-know)
+- [Becoming a Better Writer](./Becoming%20a%20Better%20Writer)
 - Networking
   - [Professional Networking](./networkinig/Professional%20Networking)
   - [Creating LinkedIn Content](./networkinig/Creating%20LinkedIn%20Content)
