@@ -67,4 +67,4 @@
 ![Copilot with funny autocode](./images/copilot1.png)
 ![Copilot with out-of-date info](./images/copilot2.png)
 ![Copilot with a useful suggestion](./images/copilot3.png)
-![Copilot suggestion for career topic](./images/copilot4.png)
+![Copilot suggestion for career topic](./images/Copilot4.png)
