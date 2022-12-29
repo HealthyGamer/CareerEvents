@@ -18,7 +18,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [The Magic of "I Don't Know"](./magic-of-i-dont-know)
 - [Becoming a Better Writer](./Becoming%20a%20Better%20Writer)
 - [Is AI About to Replace Us? (Reference material only)](./AI%20References)
-- [Creating a Personal Brand](./Creating%20a%20Personal%20Brand)
+- [Creating a Personal Brand](./Personal%20Brand)
 - Networking
   - [Professional Networking](./networkinig/Professional%20Networking)
   - [Creating LinkedIn Content](./networkinig/Creating%20LinkedIn%20Content)
