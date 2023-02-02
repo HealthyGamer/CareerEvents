@@ -19,6 +19,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Becoming a Better Writer](./Becoming%20a%20Better%20Writer)
 - [Is AI About to Replace Us? (Reference material only)](./AI%20References)
 - [Creating a Personal Brand](./Personal%20Branding)
+- [My Passion Won't Pay the Bills](./Passion%20Doesnt%20Pay%20the%20Bills)
 - Networking
   - [Professional Networking](./networkinig/Professional%20Networking)
   - [Creating LinkedIn Content](./networkinig/Creating%20LinkedIn%20Content)
