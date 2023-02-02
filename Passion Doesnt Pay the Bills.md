@@ -61,5 +61,7 @@ The other path is recognizing that passion is created over time and taking steps
 Recognizing these elements also explains why we can lose that passion. When turning a hobby into a job causes people to lose their love for the work, things like negative experiences are often the cause. We fully control how and when you participate when something is a hobby. There are no angry customers, no marketing, and no stress over profits. It's understandable why adding these elements to a hobby can destroy passion for something- it is difficult to maintain when your positive memories are crowded out by negative ones.
 
 Links:
+
 <https://www.youtube.com/watch?v=eqC-A560jK4&t=2115s>
+
 <https://www.youtube.com/watch?v=dE-wvWdM6jY>
