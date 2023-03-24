@@ -23,5 +23,6 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - Networking
   - [Professional Networking](./networkinig/Professional%20Networking)
   - [Creating LinkedIn Content](./networkinig/Creating%20LinkedIn%20Content)
+  - [Becoming a Dev](./Become%20a%20Dev)
 
 **Looking for tech event notes? You can find those [here](https://healthygamer.github.io/CodingEvents/)!**
