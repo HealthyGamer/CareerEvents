@@ -24,5 +24,6 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
   - [Professional Networking](./networkinig/Professional%20Networking)
   - [Creating LinkedIn Content](./networkinig/Creating%20LinkedIn%20Content)
   - [Becoming a Dev](./Become%20a%20Dev)
+  - [Surviving as an Introvert (Reference Links Only)](./Surviving%20as%20an%20Introvert.md)
 
 **Looking for tech event notes? You can find those [here](https://healthygamer.github.io/CodingEvents/)!**
